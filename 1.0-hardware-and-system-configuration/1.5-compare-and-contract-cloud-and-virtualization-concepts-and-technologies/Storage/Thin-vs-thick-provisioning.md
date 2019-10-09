@@ -1,0 +1,1 @@
+# Thin vs. thick provisioning

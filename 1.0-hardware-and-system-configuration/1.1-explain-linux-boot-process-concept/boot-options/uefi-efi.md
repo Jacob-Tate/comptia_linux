@@ -1,2 +1,1 @@
-# UEFI/EFI
-
+# UEFI EFI

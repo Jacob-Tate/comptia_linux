@@ -1,0 +1,1 @@
+# Restrict cron access
